@@ -14,4 +14,4 @@ Examinar como as vendas de pizzas variam de acordo com:
 - **Python**: para análise de dados e visualizações.  
 - **Pandas**: manipulação e exploração de dados.
 - **Numpy**: operar funções matemáticas. 
-- **Matplotlib/Seaborn**: criação de gráficos para visualização dos padrões.   
+- **Matplotlib**: criação de gráficos para visualização dos padrões.   
